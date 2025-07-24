@@ -71,20 +71,11 @@ I’m a full-stack developer with a growth mindset, passionate about elegant cod
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hakan-kenter&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-kenter&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 📧 hakan.kt@outlook.fr  
-- 💼 LinkedIn (à venir)  
-- 🌍 Personal Portfolio (en cours de création)
+- 💼 LinkedIn : https://www.linkedin.com/in/hakan-kenter/
+- 🌍 Personal Portfolio : https://hakan-kenter.com/
 
 ---
 
